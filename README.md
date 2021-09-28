@@ -1,1 +1,3 @@
 # bigfootfinalproject
+
+the project idea is really interesting, here are some notes to keep in mind... always think of the information that will be saved to the database, and the information will be retrieved from the database. just from the project description, I can feel that the website is going to be implemented mostly using javascript.. make sure you use PHP and SQL.. we will cover those after the fall break.. also you should think of a dashboard page where admins can login to see various info about the website and be able to modify some information or add some information.
