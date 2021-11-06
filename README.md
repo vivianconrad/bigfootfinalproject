@@ -2,9 +2,6 @@
 [![codecov](https://codecov.io/gh/vivianconrad/bigfootfinalproject/branch/main/graph/badge.svg?token=PD5BQLH42M)](https://codecov.io/gh/vivianconrad/bigfootfinalproject)
 
 
-      <a href="https://codecov.io/gh/vivianconrad/bigfootfinalproject">
-        <img src="https://codecov.io/gh/vivianconrad/bigfootfinalproject/branch/main/graph/badge.svg?token=PD5BQLH42M"/>
-      </a>
     
 This semester, you will be working in a group (i.e., two students per group) to design, implement, test, and revise any Web-based application, as approved by your instructor. Your project must be entirely designed, implemented, tested (with help from your family, friends, and classmates), and revised by your group. It must also incorporate these components:
 
