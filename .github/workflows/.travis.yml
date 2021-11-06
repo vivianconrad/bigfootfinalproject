@@ -1,0 +1,13 @@
+language: java
+sudo: false # faster builds
+
+jdk:
+  - oraclejdk11
+  - oraclejdk14
+
+env:
+  global:
+    - CODECOV_TOKEN=da21591f-4260-415b-877a-f49d09baeacf
+    
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
