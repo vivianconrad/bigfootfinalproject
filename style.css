@@ -1,57 +1,57 @@
 TEXTAREA
 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Charter", sans-serif;
 }
 INPUT
 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Charter", sans-serif;
 }
 BODY
 {
-	font-size: 11pt;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #000000;
+	font-size: 12pt;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
+	background-color: #8c0031;
 	margin: 0px;
 }
 TD
 {
-	font-size: 11pt;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
 }
 A:link
 {
-	color: #C0C0FF;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #fc8767;
+	font-family: "Charter", sans-serif;
 }
 A:active
 {
-	color: #b00000;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f00000;
+		font-family: "Charter", sans-serif;
 }
 A:visited
 {
-  COLOR: #A0A0FF;
-	font-family: Arial, Helvetica, sans-serif;
+  COLOR: #fc8767;
+		font-family: "Charter", sans-serif;
 }
 A:hover
 {
-	color: #f00000;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #cfc2b9;
+		font-family: "Charter", sans-serif;
 	ttext-decoration: underline overline;
 }
 .field
 {
 	font-weight: bold;
-	font-family: Arial, Helvetica, sans-serif;
+		font-family: "Charter", sans-serif;
 }
 .articleheader
 {
 	font-weight: bold;
 	font-size: 14pt;
 	color: #ffffff;
-	font-family: Arial, Helvetica, sans-serif;
+		font-family: "Charter", sans-serif;
 }
 .articletitle
 {
@@ -128,48 +128,48 @@ H1
 {
 	font-size:20pt;
 	font-weight: bold;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
 }
 H2
 {
 	font-size: 17pt;
 	font-weight: bold;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
 }
 H3
 {
 	font-size: 15pt;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
 }
 .h1
 {
 	font-size:20pt;
 	font-weight: bold;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
 }
 .h2
 {
 	font-size: 17pt;
 	font-weight: bold;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f1be3e;
+		font-family: "Charter", sans-serif;
 }
 .h3
 {
 	font-size: 15pt;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
 }
 .monthHeader
 {
 	font-weight: bold;
 	font-size: 14pt;
-	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #f1be3e;
+	font-family: "Charter", sans-serif;
 }
 .titleCase
 {
@@ -183,35 +183,35 @@ H3
 }
 .smallprint
 {
-	font-size: 9pt;
-	color: white;
+	font-size: 10pt;
+	color: #f1be3e;
 	font-family: Arial, Helvetica, sans-serif;
 }
 .head1
 {
 	font-weight: bold;
-	font-size: 18pt;
-	color: #ffcc99;
+	font-size: 16pt;
+	color: #f1be3e;
 	font-family: Arial, Helvetica, sans-serif;
 }
 .head2
 {
     FONT-WEIGHT: bold;
-  	font-size: 16pt;
-    COLOR: #ffcc99;
+  	font-size: 14pt;
+    COLOR: #f1be3e;
     FONT-FAMILY: Arial, Helvetica, sans-serif
 }
 .head3
 {
-  	font-size: 13pt;
-    COLOR: #ffcc99;
+  	font-size: 12pt;
+    COLOR: #f1be3e;
     FONT-FAMILY: Arial, Helvetica, sans-serif
 }
 .head4
 {
-  	font-size: 11pt;
-    COLOR: #ffcc99;
-    FONT-FAMILY: Arial, Helvetica, sans-serif
+  	font-size: 10pt;
+    COLOR: #f1be3e;
+    FONT-FAMILY: Chater, sans-serif;
 }
 .smallitem
 {
@@ -220,4 +220,8 @@ H3
 		font-size: 9pt;
 		color: white;
 		font-family: Arial, Helvetica, sans-serif;
+}
+
+.img {
+  border: 3px solid #f1be3e;
 }
