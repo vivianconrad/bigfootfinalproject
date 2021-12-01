@@ -1,24 +1,56 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
-<head>
-
-    <meta charset="utf-8">
-    <title>Report</title>
-
-    <link href="style.css" rel="stylesheet" type="text/CSS">
-    <script> src="file.js"></script>
-
-</head>
-
+<html>
 <body>
-    <header>
-        <h1>File A Report</h1>
-    </header>
+  <head>
+        <link rel="stylesheet" href="articlesstyle.css">
+  <style>
+  h1 {text-align: center;}
+  h2 {text-align: center;}
+  h3 {text-align: center;}
+  h4 {text-align: center;}
+  body {text-align: center;}
+html {
+}
 
-    <footer>
+.container {
+  position: relative;
+  text-align: center;
+  color: #f1be3e;
+}
 
-    </footer>
+</style>
+
+<h2>Report a sighting</h2>
+
+<form action="/action_page.php">
+  <label for="fname">Name: (Last,First)</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <br>
+  <label for="lname">Location of Sighting: (City, State)</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+  <br>
+  <label for="fname">Additional Notes:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>Click 'submit' to add the sighting to the database.</p>
+
+<div class="container">
+         <a href="bigfoot.html">
+   <img src="IMG_2385.jpg" alt="cabin" style="width: 15%;">
+
+     <a href="about.html">
+   <img src="IMG_2336.jpg" alt="fire" style="width: 15%;">
+
+      <a href="sightings.html">
+   <img src="IMG_2337.jpg" alt="globe" style="width: 15%;">
+
+   <a href="report.html">
+   <img src="IMG_2339.jpg" alt="papers" style="width: 15%;">
+
+     <br>
+  <img src="forest-5319107_960_720.png" alt="forest" style="width: 100%;">
+
 </body>
-
 </html>
