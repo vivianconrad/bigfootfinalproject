@@ -1,24 +1,23 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
-<head>
-
-    <meta charset="utf-8">
-    <title>Report</title>
-
-    <link href="style.css" rel="stylesheet" type="text/CSS">
-    <script> src="file.js"></script>
-
-</head>
-
+<html>
 <body>
-    <header>
-        <h1>File A Report</h1>
-    </header>
+  <head>
 
-    <footer>
+<h2>Report a sighting</h2>
+<!--Prompts users to put in their name, city, and any additional notes they have.-->
+<form action="/action_page.php">
+  <label for="fname">Name: (Last,First)</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <br>
+  <label for="lname">Location of Sighting: (City, State)</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+  <br>
+  <label for="fname">Additional Notes:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <input type="submit" value="Submit">
+</form> 
 
-    </footer>
+<p>Click 'submit' to add the sighting to the database.</p>
+
 </body>
-
 </html>
